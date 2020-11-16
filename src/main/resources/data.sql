@@ -1,0 +1,1 @@
+REPLACE INTO `users` VALUES (1,0,'admin','ADMIN','admin');
